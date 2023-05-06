@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on [authifyChat](https://authifyweb.github.io/authifyChat/) and [authifyURL](https://authifyweb.github.io/authifyURL/)
+- 🔭 I’m currently working on [authifyChat](https://chat.authifyweb.com) and [authifyURL](https://url.authifyweb.com/)
 
 
 <!--
