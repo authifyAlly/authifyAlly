@@ -1,24 +1,5 @@
 ### Hi there 👋 I am authifyAlly
 
+I mainly work on the [authifyWeb](https://authifyweb.com) projects. Mostly code reviews, and database management. There are 2 actively maintained projects under authifyWeb: [authifyURL](https://url.authifyweb.com) and [authifyFame Profile Card](https://fame.authifyweb.com).
 
-
-- 🔭 I’m maintain [authifyChat](https://chat.authifyweb.com) and [authifyURL](https://url.authifyweb.com/) databases
-
-
-<!--
-**authifyAlly/authifyAlly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+authifyWeb Blog: [authifyCollective](https://collective.authifyweb.com)
